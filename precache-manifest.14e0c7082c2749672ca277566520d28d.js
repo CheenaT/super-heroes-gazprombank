@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "34d8e86f053652db8e98",
-    "url": "/super-heroes-gazprombank/static/css/main.5ccb59b5.chunk.css"
+    "revision": "43d4c4c4630e63519df5",
+    "url": "/super-heroes-gazprombank/static/css/main.df1c9725.chunk.css"
   },
   {
-    "revision": "34d8e86f053652db8e98",
-    "url": "/super-heroes-gazprombank/static/js/main.757289ee.chunk.js"
+    "revision": "43d4c4c4630e63519df5",
+    "url": "/super-heroes-gazprombank/static/js/main.df27b8d1.chunk.js"
   },
   {
     "revision": "4e8ec285bff274f120b4",
     "url": "/super-heroes-gazprombank/static/js/runtime~main.4da69c46.js"
   },
   {
-    "revision": "93d4c1d93ad8774f5b01",
-    "url": "/super-heroes-gazprombank/static/js/2.cc0c4ae5.chunk.js"
+    "revision": "b9a2de36175ba3c4cd21",
+    "url": "/super-heroes-gazprombank/static/js/2.c69cb4f1.chunk.js"
   },
   {
     "revision": "0c80cdb8a5ba26c6ac2d61d9e64d0ef3",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/super-heroes-gazprombank/static/media/Rectangle.5591022b.svg"
   },
   {
-    "revision": "8f914285b1983588fa390d6414085fe2",
+    "revision": "bf1dfc75dc85b743c35b4cc2eef91ff4",
     "url": "/super-heroes-gazprombank/index.html"
   }
 ];
