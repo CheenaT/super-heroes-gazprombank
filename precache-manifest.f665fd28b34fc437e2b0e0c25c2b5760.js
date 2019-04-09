@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5605039cf4f128ed37db",
-    "url": "/super-heroes-gazprombank/static/css/main.e8a8ff79.chunk.css"
+    "revision": "34d8e86f053652db8e98",
+    "url": "/super-heroes-gazprombank/static/css/main.5ccb59b5.chunk.css"
   },
   {
-    "revision": "5605039cf4f128ed37db",
+    "revision": "34d8e86f053652db8e98",
     "url": "/super-heroes-gazprombank/static/js/main.757289ee.chunk.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/super-heroes-gazprombank/static/media/Rectangle.5591022b.svg"
   },
   {
-    "revision": "784cf06c8e938b8cb1a4e91bfd6af34e",
+    "revision": "8f914285b1983588fa390d6414085fe2",
     "url": "/super-heroes-gazprombank/index.html"
   }
 ];
