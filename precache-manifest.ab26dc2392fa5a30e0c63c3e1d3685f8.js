@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "521f6b4d60bb7028e1ef",
-    "url": "/super-heroes-gazprombank/static/css/main.7209c15a.chunk.css"
+    "revision": "01a66aa970d1a34f1e03",
+    "url": "/super-heroes-gazprombank/static/css/main.1f10c99a.chunk.css"
   },
   {
-    "revision": "521f6b4d60bb7028e1ef",
-    "url": "/super-heroes-gazprombank/static/js/main.6fff6ed2.chunk.js"
+    "revision": "01a66aa970d1a34f1e03",
+    "url": "/super-heroes-gazprombank/static/js/main.3282e96a.chunk.js"
   },
   {
     "revision": "4e8ec285bff274f120b4",
     "url": "/super-heroes-gazprombank/static/js/runtime~main.4da69c46.js"
   },
   {
-    "revision": "884546d85f6e2bb33e8a",
-    "url": "/super-heroes-gazprombank/static/js/2.79bfb7fe.chunk.js"
+    "revision": "cdb4750d64716957675e",
+    "url": "/super-heroes-gazprombank/static/js/2.eb21bde9.chunk.js"
   },
   {
     "revision": "0c80cdb8a5ba26c6ac2d61d9e64d0ef3",
     "url": "/super-heroes-gazprombank/static/media/Marvel.0c80cdb8.svg"
+  },
+  {
+    "revision": "b06677034fd55e1982ac318949a97a96",
+    "url": "/super-heroes-gazprombank/static/media/dc-logo.b0667703.svg"
   },
   {
     "revision": "0ca8d69fdb966a500e51387b3c9155f5",
@@ -32,10 +36,6 @@ self.__precacheManifest = [
     "url": "/super-heroes-gazprombank/static/media/Vector.d1294e48.svg"
   },
   {
-    "revision": "b06677034fd55e1982ac318949a97a96",
-    "url": "/super-heroes-gazprombank/static/media/dc-logo.b0667703.svg"
-  },
-  {
     "revision": "7701067365988b773e463f8c9f8d272c",
     "url": "/super-heroes-gazprombank/static/media/Ellipse.77010673.svg"
   },
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/super-heroes-gazprombank/static/media/Rectangle.5591022b.svg"
   },
   {
-    "revision": "7a77088d27f3bd51ecaf69437b9493c8",
+    "revision": "ebcaafc9e74906700ac08493efcfef99",
     "url": "/super-heroes-gazprombank/index.html"
   }
 ];
